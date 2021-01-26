@@ -1,6 +1,6 @@
 # social-app-task
 a REST API with mongodb as a database
-# to start the project 
+- to start the project 
  1- git clone https://github.com/acmASCIS/social-app-task.git<br>
  2- cd social-app-task<br>
  3- npm i<br>
